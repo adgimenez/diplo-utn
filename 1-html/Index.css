@@ -1,0 +1,57 @@
+* {
+  background-color: #031633;
+  color: white;
+  width: 600px;
+  margin: auto;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 1.2rem;
+}
+h3 {
+  font-size: 1.1rem;
+  font-weight: lighter;
+}
+p {
+  font-size: 1rem;
+}
+ul {
+  padding-top: 0.5em;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: yellow;
+}
+
+.main {
+  padding-top: 1.5em;
+  display: flex;
+  flex-direction: column;
+}
+.detalles {
+  justify-content: flex-start;
+}
+.series {
+  padding-top: 1.5em;
+}
+.pelis {
+  padding-top: 1.5em;
+}
+.perfil {
+  padding-top: 1.5em;
+}
+footer {
+  padding-top: 1.5em;
+}
