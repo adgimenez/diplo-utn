@@ -52,7 +52,7 @@ aside {
     display: flex;
     width: auto;
 	border-bottom: 3px solid black;
-	height: 50px;
+	min-height: 50px;
 	
   }
   ul {
